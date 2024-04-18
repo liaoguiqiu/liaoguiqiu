@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liaoguiqiu
+- 👋 Hi, I’m @Qiu
 - 👀 I’m interested in robot and music
 - 🌱 I’m currently studying artifical intelligence and computer vision
 - 💞️ I’m looking to collaborate on medical image/data processing
